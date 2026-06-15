@@ -1,0 +1,13 @@
+use user.
+
+task create_user.
+    show "User Registered".
+end.
+
+task find_user.
+    show "User Found".
+end.
+
+task delete_user.
+    show "User Deleted".
+end.

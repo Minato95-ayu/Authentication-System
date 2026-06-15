@@ -1,0 +1,14 @@
+use api.
+
+show "=== Auth System ===".
+
+run start_server.
+
+show "POST /register".
+run register_user.
+
+show "POST /login".
+run login_user.
+
+show "POST /logout".
+run logout_user.

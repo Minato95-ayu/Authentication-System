@@ -1,0 +1,5 @@
+use auth.
+
+task start_server.
+    show "API Started".
+end.

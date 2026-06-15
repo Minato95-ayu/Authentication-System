@@ -1,0 +1,13 @@
+use database.
+
+task register_user.
+    run create_user.
+end.
+
+task login_user.
+    show "Login Success".
+end.
+
+task logout_user.
+    show "Logout Success".
+end.
